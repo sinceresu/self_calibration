@@ -1,0 +1,19 @@
+[submodule "third_party/ceres-solver"]
+	path = third_party/ceres-solver
+	url = https://github.com/ceres-solver/ceres-solver.git
+[submodule "third_party/eigen"]
+	path = third_party/eigen
+	url = https://github.com/RLovelett/eigen.git
+[submodule "third_party/glog"]
+	path = third_party/glog
+	url = https://github.com/google/glog.git
+[submodule "third_party/gflag"]
+	path = third_party/gflag
+	url = https://github.com/gflags/gflags.git
+[submodule "third_party/opencv"]
+	path = third_party/opencv
+	url = https://github.com/Itseez/opencv.git
+[submodule "third_party/opencv_contrib"]
+	path = third_party/opencv_contrib
+	url = https://github.com/Itseez/opencv_contrib.git
+	
